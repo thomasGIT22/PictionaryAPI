@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 0,
+    "Group": "IT",
+    "Score": 79,
+    "Overall": true
+  },
+  {
+    "Id": 1,
+    "Group": "FM",
+    "Score": 16,
+    "Overall": true
+  },
+  {
+    "Id": 2,
+    "Group": "CSS",
+    "Score": 6,
+    "Overall": true
+  },
+  {
+    "Id": 3,
+    "Group": "CS",
+    "Score": 7,
+    "Overall": true
+  },
+  {
+    "Id": 4,
+    "Group": "LOG",
+    "Score": 8,
+    "Overall": true
+  },
+  {
+    "Id": 5,
+    "Group": "IT",
+    "Score": 21,
+    "Overall": false
+  },
+  {
+    "Id": 6,
+    "Group": "FM",
+    "Score": 16,
+    "Overall": false
+  },
+  {
+    "Id": 7,
+    "Group": "CSS",
+    "Score": 6,
+    "Overall": false
+  },
+  {
+    "Id": 8,
+    "Group": "CS",
+    "Score": 7,
+    "Overall": false
+  },
+  {
+    "Id": 9,
+    "Group": "LOG",
+    "Score": 8,
+    "Overall": false
+  }
+]
